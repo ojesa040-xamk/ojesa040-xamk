@@ -2,7 +2,11 @@
   
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- [Verenpaineen seurantalomake](https://github.com/ojesa040-xamk/verenpaineen_seurantalomake)
+- <b> React </b>
+  - [Verenpaineen seurantalomake](https://github.com/ojesa040-xamk/verenpaineen_seurantalomake)
+ 
+- <b> Python </b>
+  - [Currency conversion](https://github.com/ojesa040-xamk/CurrencyConversion.git)
 
 <h2> 🤳 Connect with me:</h2>
 
