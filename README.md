@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jenna! <br/> Digital Health Nurse and Business Information Technology Student
+<h1>Hi, I'm Jenna! <br/> Digital health nurse and second year business information technology student.
   
 <h2>👨‍💻 Software Development Projects:</h2>
 
