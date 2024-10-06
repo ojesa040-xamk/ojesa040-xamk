@@ -13,8 +13,16 @@
 
 - <b> HTML & CSS </b>
   - [Online album](https://github.com/ojesa040-xamk/Verkkoalbumi.git)
+ 
+<h2> 🎨 Graphic Projects</h2>
 
-<h2>             🤳 Connect with me:</h2>
+- <b> Photoshop </b>
+  - [Hybrid animal](https://imgur.com/lX72BUU)
+  
+- <b> After Effects </b>
+  - [Leijonat](https://imgur.com/rMaw9Cf)
+
+<h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="JennaSalmi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
