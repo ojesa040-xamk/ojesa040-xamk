@@ -3,13 +3,17 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b> React </b>
-  - [Verenpaineen seurantalomake](https://github.com/ojesa040-xamk/verenpaineen_seurantalomake)
+  - [Blood pressure tracking form](https://github.com/ojesa040-xamk/verenpaineen_seurantalomake)
  
 - <b> Python </b>
   - [Currency conversion](https://github.com/ojesa040-xamk/CurrencyConversion.git)
 
 - <b> Framer </b>
   - [Used toys shop](https://github.com/ojesa040-xamk/Toyshop.git)
+
+- <b> HTML & CSS </b>
+  - [Online album](https://github.com/ojesa040-xamk/Verkkoalbumi.git)
+
 <h2>             🤳 Connect with me:</h2>
 
 [<img align="left" alt="JennaSalmi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
