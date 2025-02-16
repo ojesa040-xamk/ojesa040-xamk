@@ -18,7 +18,9 @@
 
 - <b> Photoshop </b>
   - [Hybrid animal](https://imgur.com/lX72BUU)
-  
+  - [Business card](https://imgur.com/a/ZepLuQC)
+- <b> Illustrator </b>
+  - [Vector graphics landscape](https://imgur.com/a/4PqMepq)
 - <b> After Effects </b>
   - [Leijonat](https://imgur.com/rMaw9Cf)
 
