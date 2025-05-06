@@ -28,6 +28,6 @@
 
 [<img align="left" alt="JennaSalmi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/jenna-salmi-a461122b7
+[linkedin]: www.linkedin.com/in/jennasalmi
 
 
