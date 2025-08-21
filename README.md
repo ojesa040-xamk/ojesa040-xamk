@@ -3,6 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b> React </b>
+  - [Group exercise class booking](https://github.com/ojesa040-xamk/Ryhmaliikuntatunnit.git)
   - [Blood pressure tracking form](https://github.com/ojesa040-xamk/verenpaineen_seurantalomake)
  
 - <b> Python </b>
@@ -28,6 +29,6 @@
 
 [<img align="left" alt="JennaSalmi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]:www.linkedin.com/in/jennasalmi
+[linkedin]:https://www.linkedin.com/in/jennasalmi
 
 
