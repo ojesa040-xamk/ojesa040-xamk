@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=200&section=header&text=Welcome!&fontSize=70&fontAlignY=30" />
 
-<h1>I'm Jenna! <br/> Digital health nurse and third year business information technology student.
+<h1>Hi, I'm Jenna! <br/> Digital health nurse and third year business information technology student.
   
 <h2>👨‍💻 Software Development Projects:</h2>
 
