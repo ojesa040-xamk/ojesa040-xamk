@@ -1,4 +1,8 @@
-<h1>Hi, I'm Jenna! <br/> Digital health nurse and second year business information technology student.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!&animation=fadeIn&type=sharkg&color=auto&height=100"/>
+</p>
+
+<h1>I'm Jenna! <br/> Digital health nurse and third year business information technology student.
   
 <h2>👨‍💻 Software Development Projects:</h2>
 
