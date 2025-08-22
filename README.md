@@ -26,11 +26,12 @@
   - [Vector graphics landscape](https://imgur.com/a/4PqMepq)
 - <b> After Effects </b>
   - [Leijonat](https://imgur.com/rMaw9Cf)
-
+<div align="center">
 <h2>🤳 Connect with me:</h2>
 
-[<img align="left" alt="JennaSalmi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.linkedin.com/in/jennasalmi">
+ <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/29c121c5-afea-4912-814e-3573635d1290" />
+</a>
 
-[linkedin]:https://www.linkedin.com/in/jennasalmi
-
-
+<br> <br>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRnMmIwZGp1ZXVmZzFxZ21ucnFoMW9tZ2RldGd6NDdzc2c3bndvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B6odR0DhsStfW/giphy.gif"/> </div>
