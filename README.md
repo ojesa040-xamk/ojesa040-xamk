@@ -7,6 +7,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://github.com/user-attachments/assets/03a66df3-39f4-46c7-9ddc-c42f63fa194f" alt="react" width="45" height="45"/>
 <img src="https://github.com/user-attachments/assets/8514ab85-0301-4d2c-bd4b-91fc25a746bd" alt="typescript" width="45" height="45"/>
+<img alt="NodeJs" width="45" height="45" src="https://github.com/user-attachments/assets/77351f3f-1044-4515-91b4-e5d4e51dab03" />
 <img alt="Framer" width="45" height="45" src="https://github.com/user-attachments/assets/c6b98bbd-08ce-411b-93ae-1ccf6b523d7f" />
 <img alt="Python" width="45" height="45"  src="https://github.com/user-attachments/assets/fad3f592-7189-46eb-b6c5-933a7737907b" />
 <img alt="Wordpress" width="45" height="45" src="https://github.com/user-attachments/assets/6506b365-37f0-4ab4-ab08-e67fc3479581" />
