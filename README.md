@@ -20,25 +20,25 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b> React </b>
-  - [Group exercise class booking](https://github.com/ojesa040-xamk/Ryhmaliikuntatunnit.git)
-  - [Blood pressure tracking form](https://github.com/ojesa040-xamk/verenpaineen_seurantalomake)
+  - [Group Exercise Class Booking](https://github.com/ojesa040-xamk/Ryhmaliikuntatunnit.git)
+  - [Blood Pressure Tracking Form](https://github.com/ojesa040-xamk/verenpaineen_seurantalomake)
  
 - <b> Python </b>
-  - [Currency conversion](https://github.com/ojesa040-xamk/CurrencyConversion.git)
+  - [Currency Conversion](https://github.com/ojesa040-xamk/CurrencyConversion.git)
 
 - <b> Framer </b>
-  - [Used toys shop](https://github.com/ojesa040-xamk/Toyshop.git)
+  - [Used Toys Shop](https://github.com/ojesa040-xamk/Toyshop.git)
 
 - <b> HTML & CSS </b>
-  - [Online album](https://github.com/ojesa040-xamk/Verkkoalbumi.git)
+  - [Online Album](https://github.com/ojesa040-xamk/Verkkoalbumi.git)
  
 <h2> 🎨 Graphic Projects</h2>
 
 - <b> Photoshop </b>
-  - [Hybrid animal](https://imgur.com/lX72BUU)
-  - [Business card](https://imgur.com/a/ZepLuQC)
+  - [Hybrid Animal](https://imgur.com/lX72BUU)
+  - [Business Card](https://imgur.com/a/ZepLuQC)
 - <b> Illustrator </b>
-  - [Vector graphics landscape](https://imgur.com/a/4PqMepq)
+  - [Vector Graphics Landscape](https://imgur.com/a/4PqMepq)
 - <b> After Effects </b>
   - [Leijonat](https://imgur.com/rMaw9Cf)
 <div align="center">
